@@ -1,4 +1,4 @@
-module Locomotive
+module BangAGong
   module ApplicationHelper
   end
 end

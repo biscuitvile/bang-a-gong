@@ -1,3 +1,3 @@
-module Locomotive
+module BangAGong
   VERSION = "0.0.1"
 end

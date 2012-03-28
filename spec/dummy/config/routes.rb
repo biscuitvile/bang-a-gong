@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
 
-  mount Locomotive::Engine => "/locomotive"
+  mount BangAGong::Engine => "/bang_a_gong"
 end

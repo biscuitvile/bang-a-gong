@@ -1,2 +1,2 @@
-Locomotive::Engine.routes.draw do
+BangAGong::Engine.routes.draw do
 end

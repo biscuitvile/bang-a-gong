@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    locomotive (0.0.1)
+    bang_a_gong (0.0.1)
       capybara (~> 1.1.2)
       database_cleaner (~> 0.7.1)
       devise (~> 2.0.4)
@@ -158,5 +158,5 @@ PLATFORMS
 
 DEPENDENCIES
   jquery-rails
-  locomotive!
+  bang_a_gong!
   sqlite3
